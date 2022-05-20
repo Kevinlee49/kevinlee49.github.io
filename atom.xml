@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Myungeun Lee - Articles</title>
+    <description>studying note</description>
+    <link>
+    https://kevinlee49.github.io</link>
+    
+      
+      <item>
+        <title>Python studying - 2</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python contents &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Wed, 18 May 2022 21:50:00 +0300</pubDate>
+        <link>
+        https://kevinlee49.github.io/python-control-statement</link>
+        <guid isPermaLink="true">https://kevinlee49.github.io/python-control-statement</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Python studying - 1</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python contents &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Wed, 18 May 2022 21:50:00 +0300</pubDate>
+        <link>
+        https://kevinlee49.github.io/python-basic</link>
+        <guid isPermaLink="true">https://kevinlee49.github.io/python-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>deep learning studying - 1</title>
+        
+          <description>&lt;p&gt;This is deep learning basic!!&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 18 May 2022 21:50:00 +0300</pubDate>
+        <link>
+        https://kevinlee49.github.io/deep-learning-basic</link>
+        <guid isPermaLink="true">https://kevinlee49.github.io/deep-learning-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>cv - 1</title>
+        
+          <description>&lt;p&gt;This is computer vision Basic!!&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 18 May 2022 21:50:00 +0300</pubDate>
+        <link>
+        https://kevinlee49.github.io/computer-vision-basic</link>
+        <guid isPermaLink="true">https://kevinlee49.github.io/computer-vision-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Gettysburg Address</title>
+        
+          <description>
+</description>
+        
+        <pubDate>Thu, 19 Nov 1863 13:18:00 +0300</pubDate>
+        <link>
+        https://kevinlee49.github.io/gettysburg-address</link>
+        <guid isPermaLink="true">https://kevinlee49.github.io/gettysburg-address</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
